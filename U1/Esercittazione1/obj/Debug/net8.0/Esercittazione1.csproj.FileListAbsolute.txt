@@ -12,3 +12,4 @@ C:\Users\G\Desktop\EPICD-back-end\U1\Esercittazione1\obj\Debug\net8.0\refint\Ese
 C:\Users\G\Desktop\EPICD-back-end\U1\Esercittazione1\obj\Debug\net8.0\Esercittazione1.pdb
 C:\Users\G\Desktop\EPICD-back-end\U1\Esercittazione1\obj\Debug\net8.0\Esercittazione1.genruntimeconfig.cache
 C:\Users\G\Desktop\EPICD-back-end\U1\Esercittazione1\obj\Debug\net8.0\ref\Esercittazione1.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercittazione1\obj\Debug\net8.0\Esercittazione1.sourcelink.json

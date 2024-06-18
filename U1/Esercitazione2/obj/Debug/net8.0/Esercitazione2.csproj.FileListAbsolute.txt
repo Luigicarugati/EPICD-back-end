@@ -1,0 +1,15 @@
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\bin\Debug\net8.0\Esercitazione2.exe
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\bin\Debug\net8.0\Esercitazione2.deps.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\bin\Debug\net8.0\Esercitazione2.runtimeconfig.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\bin\Debug\net8.0\Esercitazione2.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\bin\Debug\net8.0\Esercitazione2.pdb
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.AssemblyInfoInputs.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.AssemblyInfo.cs
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.sourcelink.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\refint\Esercitazione2.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.pdb
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\Esercitazione2.genruntimeconfig.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Esercitazione2\obj\Debug\net8.0\ref\Esercitazione2.dll
