@@ -1,0 +1,36 @@
+﻿@model List<CartItem>
+
+<h2>Il tuo carrello</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Prezzo unitario</th>
+                <th>Quantità</th>
+                <th>Azioni</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Prezzo.ToString("c")</td>
+                    <td>@item.Quantita</td>
+                    <td>
+                        <form asp-action="RemoveFromCart" asp-route-id="@item.Id" method="post">
+                            <button type="submit" class="btn btn-danger">Rimuovi</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Il carrello è vuoto.</p>
+}
