@@ -1,0 +1,66 @@
+﻿@model IEnumerable<PoliziaMunicipaleApp.Models.Anagrafiche>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Cognome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Indirizzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Città)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().CAP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Cod_Fisc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cognome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Indirizzo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Città)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CAP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cod_Fisc)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Idanagrafica }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Idanagrafica }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Idanagrafica })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

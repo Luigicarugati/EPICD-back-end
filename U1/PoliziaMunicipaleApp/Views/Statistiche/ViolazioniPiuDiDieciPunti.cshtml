@@ -1,0 +1,31 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Violazioni con Più di 10 Punti Decurtati";
+}
+
+<h1>Violazioni con Più di 10 Punti Decurtati</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cognome</th>
+            <th>Nome</th>
+            <th>Data Violazione</th>
+            <th>Punti Decurtati</th>
+            <th>Importo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cognome</td>
+                <td>@item.Nome</td>
+                <td>@item.DataViolazione.ToString("dd/MM/yyyy")</td>
+                <td>@item.DecurtamentoPunti</td>
+                <td>@item.Importo</td>
+            </tr>
+        }
+    </tbody>
+</table>

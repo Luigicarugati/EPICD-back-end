@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Gestione Verbali</h2>
+
+<ul>
+    <li>@Html.ActionLink("Gestione Anagrafiche", "Index", "Anagrafica")</li>
+    <li>@Html.ActionLink("Gestione Tipi di Violazioni", "Index", "TipoViolazione")</li>
+    <li>@Html.ActionLink("Gestione Verbali", "Index", "Verbale")</li>
+</ul>
+
+<h3>Statistiche</h3>
+<ul>
+    <li>@Html.ActionLink("Totale Verbali per Trasgressore", "TotaleVerbali", "Statistiche")</li>
+    <li>@Html.ActionLink("Totale Punti Decurtati per Trasgressore", "TotalePunti", "Statistiche")</li>
+    <li>@Html.ActionLink("Violazioni che superano i 10 punti", "ViolazioniSupera10Punti", "Statistiche")</li>
+    <li>@Html.ActionLink("Violazioni con Importo Maggiore di 400 Euro", "ViolazioniImportoMaggiore400", "Statistiche")</li>
+</ul>

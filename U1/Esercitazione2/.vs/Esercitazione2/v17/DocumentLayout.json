@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Esercitazione2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABF4CD9-C919-4D08-919F-878F5A67C1EF}|Esercitazione2.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\esercitazione2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABF4CD9-C919-4D08-919F-878F5A67C1EF}|Esercitazione2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABF4CD9-C919-4D08-919F-878F5A67C1EF}|Esercitazione2.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\esercitazione2\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABF4CD9-C919-4D08-919F-878F5A67C1EF}|Esercitazione2.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Esercitazione2\\persona.cs",
+              "RelativeDocumentMoniker": "persona.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Esercitazione2\\persona.cs",
+              "RelativeToolTip": "persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:33:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Esercitazione2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Esercitazione2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:28:36.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

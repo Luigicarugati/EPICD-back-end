@@ -1,0 +1,21 @@
+﻿@model PizzeriaInFornoWebApp.Models.Ingredient
+
+@{
+    ViewData["Title"] = "Aggiungi Ingrediente";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Aggiungi Ingrediente</h2>
+    <form asp-action="Create" method="post" class="mt-4">
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Aggiungi</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

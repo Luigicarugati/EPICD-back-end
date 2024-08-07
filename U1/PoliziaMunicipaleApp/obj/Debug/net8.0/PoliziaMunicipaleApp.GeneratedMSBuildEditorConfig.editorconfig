@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PoliziaMunicipaleApp
+build_property.RootNamespace = PoliziaMunicipaleApp
+build_property.ProjectDir = C:\Users\G\Desktop\EPICD-back-end\U1\PoliziaMunicipaleApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\G\Desktop\EPICD-back-end\U1\PoliziaMunicipaleApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Anagrafiche/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hZ3JhZmljaGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Anagrafiche/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hZ3JhZmljaGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Statistiche/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljaGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Statistiche/PuntiDecurtatiPerTrasgressore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljaGVcUHVudGlEZWN1cnRhdGlQZXJUcmFzZ3Jlc3NvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Statistiche/VerbaliPerTrasgressore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljaGVcVmVyYmFsaVBlclRyYXNncmVzc29yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Statistiche/ViolazioniMaggioreDiQuattrocentoEuro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljaGVcVmlvbGF6aW9uaU1hZ2dpb3JlRGlRdWF0dHJvY2VudG9FdXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Statistiche/ViolazioniPiuDiDieciPunti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljaGVcVmlvbGF6aW9uaVBpdURpRGllY2lQdW50aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/TipoViolazione/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Zpb2xhemlvbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/TipoViolazione/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Zpb2xhemlvbmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Verbali/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyYmFsaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/Desktop/EPICD-back-end/U1/PoliziaMunicipaleApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eiz17v72v0

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ScarpeCo.Models.Articolo>
+
+@{
+    ViewData["Title"] = "Vetrina Articoli";
+}
+
+<h1>Vetrina Articoli</h1>
+
+<div class="vetrina">
+    @foreach (var articolo in Model)
+    {
+        <div class="articolo">
+            <img src="@articolo.ImmagineCopertina" alt="@articolo.Nome" />
+            <h2>@articolo.Nome</h2>
+            <p>@articolo.Prezzo.ToString("C")</p>
+            <a href="@Url.Action("Dettagli", "Articoli", new { id = articolo.Id })">Dettagli</a>
+        </div>
+    }
+</div>
+
+<style>
+    .vetrina {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .articolo {
+        border: 1px solid #ddd;
+        margin: 10px;
+        padding: 10px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .articolo img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>

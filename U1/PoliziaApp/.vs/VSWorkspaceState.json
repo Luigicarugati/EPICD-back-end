@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAO",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Statistiche",
+    "\\Views\\TipoViolazione"
+  ],
+  "SelectedNode": "\\DAO\\TipoViolazioneDAO.cs",
+  "PreviewInSolutionExplorer": false
+}

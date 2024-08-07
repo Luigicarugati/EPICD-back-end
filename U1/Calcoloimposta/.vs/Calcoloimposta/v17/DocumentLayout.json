@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Calcoloimposta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950027C4-C3F2-4026-A490-7427922B2C48}|Calcoloimposta.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\calcoloimposta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950027C4-C3F2-4026-A490-7427922B2C48}|Calcoloimposta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950027C4-C3F2-4026-A490-7427922B2C48}|Calcoloimposta.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\calcoloimposta\\contribuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950027C4-C3F2-4026-A490-7427922B2C48}|Calcoloimposta.csproj|solutionrelative:contribuente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contribuente.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Calcoloimposta\\Contribuente.cs",
+              "RelativeDocumentMoniker": "Contribuente.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Calcoloimposta\\Contribuente.cs",
+              "RelativeToolTip": "Contribuente.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:44:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Calcoloimposta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\Calcoloimposta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:43:39.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

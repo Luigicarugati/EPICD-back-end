@@ -1,0 +1,107 @@
+﻿@model GestioneHotelApp.Models.Prenotazione
+
+@{
+    ViewData["Title"] = "Dettagli Prenotazione";
+}
+
+<h2>Dettagli Prenotazione</h2>
+
+<div>
+    <h4>Dettagli</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Id Prenotazione
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Id
+        </dd>
+        <dt class="col-sm-2">
+            Cliente
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Cliente.Cognome @Model.Cliente.Nome
+        </dd>
+        <dt class="col-sm-2">
+            Numero Camera
+        </dt>
+        <dd class="col-sm-10">
+            @Model.NumeroCamera
+        </dd>
+        <dt class="col-sm-2">
+            Descrizione Camera
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Camera.Descrizione
+        </dd>
+        <dt class="col-sm-2">
+            Tipologia Camera
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Camera.Tipologia
+        </dd>
+        <dt class="col-sm-2">
+            Data Prenotazione
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DataPrenotazione.ToShortDateString()
+        </dd>
+        <dt class="col-sm-2">
+            Data Inizio
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Dal.ToShortDateString()
+        </dd>
+        <dt class="col-sm-2">
+            Data Fine
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Al.ToShortDateString()
+        </dd>
+        <dt class="col-sm-2">
+            Caparra Confirmatoria
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CaparraConfirmatoria.ToString("C")
+        </dd>
+        <dt class="col-sm-2">
+            Tariffa Applicata
+        </dt>
+        <dd class="col-sm-10">
+            @Model.TariffaApplicata.ToString("C")
+        </dd>
+        <dt class="col-sm-2">
+            Trattamento
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Trattamento.Descrizione
+        </dd>
+    </dl>
+</div>
+<div>
+    <h4>Servizi Prenotati</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Descrizione</th>
+                <th>Data</th>
+                <th>Quantità</th>
+                <th>Prezzo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var servizio in Model.PrenotazioniServizi)
+            {
+                <tr>
+                    <td>@servizio.Servizio.Descrizione</td>
+                    <td>@servizio.Data.ToShortDateString()</td>
+                    <td>@servizio.Quantita</td>
+                    <td>@servizio.Prezzo.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

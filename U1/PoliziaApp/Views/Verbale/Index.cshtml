@@ -1,0 +1,43 @@
+﻿@model IEnumerable<PoliziaApp.Models.Verbale>
+
+<h2>Verbali</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <tr>
+        <th>IdAnagrafica</th>
+        <th>IdViolazione</th>
+        <th>DataViolazione</th>
+        <th>IndirizzoViolazione</th>
+        <th>Nominativo_Agente</th>
+        <th>DataTrascrizioneVerbale</th>
+        <th>Importo</th>
+        <th>DecurtamentoPunti</th>
+        <th>Attenuante</th>
+        <th>Aggravante</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.IdAnagrafica)</td>
+            <td>@Html.DisplayFor(modelItem => item.IdViolazione)</td>
+            <td>@Html.DisplayFor(modelItem => item.DataViolazione)</td>
+            <td>@Html.DisplayFor(modelItem => item.IndirizzoViolazione)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nominativo_Agente)</td>
+            <td>@Html.DisplayFor(modelItem => item.DataTrascrizioneVerbale)</td>
+            <td>@Html.DisplayFor(modelItem => item.Importo)</td>
+            <td>@Html.DisplayFor(modelItem => item.DecurtamentoPunti)</td>
+            <td>@Html.DisplayFor(modelItem => item.Attenuante)</td>
+            <td>@Html.DisplayFor(modelItem => item.Aggravante)</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVerbale">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVerbale">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,15 @@
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\bin\Debug\net8.0\Calcoloimposta.exe
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\bin\Debug\net8.0\Calcoloimposta.deps.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\bin\Debug\net8.0\Calcoloimposta.runtimeconfig.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\bin\Debug\net8.0\Calcoloimposta.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\bin\Debug\net8.0\Calcoloimposta.pdb
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.AssemblyInfoInputs.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.AssemblyInfo.cs
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.csproj.CoreCompileInputs.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.sourcelink.json
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\refint\Calcoloimposta.dll
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.pdb
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\Calcoloimposta.genruntimeconfig.cache
+C:\Users\G\Desktop\EPICD-back-end\U1\Calcoloimposta\obj\Debug\net8.0\ref\Calcoloimposta.dll

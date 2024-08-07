@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\dao\\anagraficadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:dao\\anagraficadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\dao\\tipoviolazionedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:dao\\tipoviolazionedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\anagrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\anagrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:dao\\basedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\violazionesupera10punti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\violazionesupera10punti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\tipoviolazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\tipoviolazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\controllers\\anagraficacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:controllers\\anagraficacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\controllers\\verbalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:controllers\\verbalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\controllers\\tipoviolazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:controllers\\tipoviolazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\verbale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\verbale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\violazioneimportomaggiore400.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\violazioneimportomaggiore400.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\dao\\verbaledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:dao\\verbaledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\totalepuntipertrasgressore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\totalepuntipertrasgressore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\totaleverbalipertrasgressore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\totaleverbalipertrasgressore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\statistiche\\violazioniimportomaggiore400.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\statistiche\\violazioniimportomaggiore400.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\statistiche\\violazionisupera10punti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\statistiche\\violazionisupera10punti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\statistiche\\totalepunti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\statistiche\\totalepunti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\statistiche\\totaleverbali.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\statistiche\\totaleverbali.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\verbale\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\verbale\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\verbale\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\verbale\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\verbale\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\verbale\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\verbale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\verbale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\tipoviolazione\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\tipoviolazione\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\tipoviolazione\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\tipoviolazione\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\tipoviolazione\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\tipoviolazione\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\tipoviolazione\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\tipoviolazione\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\anagrafica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\anagrafica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\anagrafica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\anagrafica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\anagrafica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\anagrafica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\views\\anagrafica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:views\\anagrafica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\poliziaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:poliziaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\controllers\\statistichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:controllers\\statistichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|c:\\users\\g\\desktop\\epicd-back-end\\u1\\poliziaapp\\models\\poliziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF42E92-223E-4F40-BCAA-33F0FDAFEE86}|PoliziaApp.csproj|solutionrelative:models\\poliziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViolazioneSupera10Punti.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\ViolazioneSupera10Punti.cs",
+              "RelativeDocumentMoniker": "Models\\ViolazioneSupera10Punti.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\ViolazioneSupera10Punti.cs",
+              "RelativeToolTip": "Models\\ViolazioneSupera10Punti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:38:42.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoViolazioneDAO.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\TipoViolazioneDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TipoViolazioneDAO.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\TipoViolazioneDAO.cs",
+              "RelativeToolTip": "DAO\\TipoViolazioneDAO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:09:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:51:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:33:46.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnagraficaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\AnagraficaDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\AnagraficaDAO.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\AnagraficaDAO.cs",
+              "RelativeToolTip": "DAO\\AnagraficaDAO.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwEkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:07:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDAO.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\BaseDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BaseDAO.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\BaseDAO.cs",
+              "RelativeToolTip": "DAO\\BaseDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:06:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anagrafica.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\Anagrafica.cs",
+              "RelativeDocumentMoniker": "Models\\Anagrafica.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\Anagrafica.cs",
+              "RelativeToolTip": "Models\\Anagrafica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:36:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAADA1RmpmFsdwAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T15:46:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:57:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T14:23:43.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoViolazione.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TipoViolazione.cs",
+              "RelativeDocumentMoniker": "Models\\TipoViolazione.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TipoViolazione.cs",
+              "RelativeToolTip": "Models\\TipoViolazione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:53:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T17:16:12.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnagraficaController.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\AnagraficaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnagraficaController.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\AnagraficaController.cs",
+              "RelativeToolTip": "Controllers\\AnagraficaController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:12:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerbaleController.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\VerbaleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VerbaleController.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\VerbaleController.cs",
+              "RelativeToolTip": "Controllers\\VerbaleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:14:35.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoViolazioneController.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\TipoViolazioneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoViolazioneController.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\TipoViolazioneController.cs",
+              "RelativeToolTip": "Controllers\\TipoViolazioneController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:13:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Verbale.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\Verbale.cs",
+              "RelativeDocumentMoniker": "Models\\Verbale.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\Verbale.cs",
+              "RelativeToolTip": "Models\\Verbale.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:54:14.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViolazioneImportoMaggiore400.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\ViolazioneImportoMaggiore400.cs",
+              "RelativeDocumentMoniker": "Models\\ViolazioneImportoMaggiore400.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\ViolazioneImportoMaggiore400.cs",
+              "RelativeToolTip": "Models\\ViolazioneImportoMaggiore400.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:39:24.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerbaleDAO.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\VerbaleDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\VerbaleDAO.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\DAO\\VerbaleDAO.cs",
+              "RelativeToolTip": "DAO\\VerbaleDAO.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAArwG8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:09:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TotalePuntiPerTrasgressore.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TotalePuntiPerTrasgressore.cs",
+              "RelativeDocumentMoniker": "Models\\TotalePuntiPerTrasgressore.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TotalePuntiPerTrasgressore.cs",
+              "RelativeToolTip": "Models\\TotalePuntiPerTrasgressore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:38:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TotaleVerbaliPerTrasgressore.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TotaleVerbaliPerTrasgressore.cs",
+              "RelativeDocumentMoniker": "Models\\TotaleVerbaliPerTrasgressore.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\TotaleVerbaliPerTrasgressore.cs",
+              "RelativeToolTip": "Models\\TotaleVerbaliPerTrasgressore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:36:53.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViolazioniImportoMaggiore400.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\ViolazioniImportoMaggiore400.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiche\\ViolazioniImportoMaggiore400.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\ViolazioniImportoMaggiore400.cshtml",
+              "RelativeToolTip": "Views\\Statistiche\\ViolazioniImportoMaggiore400.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:33:06.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViolazioniSupera10Punti.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\ViolazioniSupera10Punti.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiche\\ViolazioniSupera10Punti.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\ViolazioniSupera10Punti.cshtml",
+              "RelativeToolTip": "Views\\Statistiche\\ViolazioniSupera10Punti.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:32:24.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TotalePunti.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\TotalePunti.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiche\\TotalePunti.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\TotalePunti.cshtml",
+              "RelativeToolTip": "Views\\Statistiche\\TotalePunti.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:31:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TotaleVerbali.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\TotaleVerbali.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiche\\TotaleVerbali.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Statistiche\\TotaleVerbali.cshtml",
+              "RelativeToolTip": "Views\\Statistiche\\TotaleVerbali.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:30:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Verbale\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Verbale\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:29:11.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Verbale\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Verbale\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:28:33.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Verbale\\Create.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Create.cshtml",
+              "RelativeToolTip": "Views\\Verbale\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:27:55.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Verbale\\Index.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Verbale\\Index.cshtml",
+              "RelativeToolTip": "Views\\Verbale\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:27:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoViolazione\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Delete.cshtml",
+              "RelativeToolTip": "Views\\TipoViolazione\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:26:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoViolazione\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TipoViolazione\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:25:54.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoViolazione\\Create.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Create.cshtml",
+              "RelativeToolTip": "Views\\TipoViolazione\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:25:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoViolazione\\Index.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\TipoViolazione\\Index.cshtml",
+              "RelativeToolTip": "Views\\TipoViolazione\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:24:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Anagrafica\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Anagrafica\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:23:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Anagrafica\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Anagrafica\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:22:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Anagrafica\\Create.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Create.cshtml",
+              "RelativeToolTip": "Views\\Anagrafica\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:22:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Anagrafica\\Index.cshtml",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Views\\Anagrafica\\Index.cshtml",
+              "RelativeToolTip": "Views\\Anagrafica\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:21:21.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PoliziaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\PoliziaApp.csproj",
+              "RelativeDocumentMoniker": "PoliziaApp.csproj",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\PoliziaApp.csproj",
+              "RelativeToolTip": "PoliziaApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T15:17:33.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StatisticheController.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\StatisticheController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatisticheController.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Controllers\\StatisticheController.cs",
+              "RelativeToolTip": "Controllers\\StatisticheController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:15:37.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PoliziaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\PoliziaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PoliziaDbContext.cs",
+              "ToolTip": "C:\\Users\\G\\Desktop\\EPICD-back-end\\U1\\PoliziaApp\\Models\\PoliziaDbContext.cs",
+              "RelativeToolTip": "Models\\PoliziaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:34:44.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

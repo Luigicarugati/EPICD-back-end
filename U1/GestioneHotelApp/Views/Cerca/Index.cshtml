@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Cerca Prenotazioni";
+}
+
+<h2>Cerca Prenotazioni</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <h3>Ricerca Prenotazioni per Nome e Cognome</h3>
+        <form id="cercaPrenotazioniForm">
+            <div class="form-group">
+                <label for="nome">Nome:</label>
+                <input type="text" class="form-control" id="nome" name="nome" required />
+            </div>
+            <div class="form-group">
+                <label for="cognome">Cognome:</label>
+                <input type="text" class="form-control" id="cognome" name="cognome" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Cerca</button>
+        </form>
+    </div>
+</div>
+
+<div id="risultatiPrenotazioni">
+    <partial name="_PrenotazioniResult" model="@ViewBag.Prenotazioni" />
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#cercaPrenotazioniForm').submit(function (event) {
+                event.preventDefault();
+                var nome = $('#nome').val();
+                var cognome = $('#cognome').val();
+                $.get('@Url.Action("RicercaPrenotazioni", "Cerca")', { nome: nome, cognome: cognome }, function (data) {
+                    $('#risultatiPrenotazioni').html(data);
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,38 @@
+﻿@model ScarpeCo.Models.Articolo
+
+@{
+    ViewData["Title"] = "Dettagli " + Model.Nome;
+}
+
+<h1>@Model.Nome</h1>
+
+<div class="dettagli-articolo">
+    <img src="@Model.ImmagineCopertina" alt="@Model.Nome" class="img-copertina" />
+    <p>@Model.Prezzo.ToString("C")</p>
+    <form asp-controller="Cart" asp-action="AddToCart" method="post">
+        <input type="hidden" name="id" value="@Model.Id" /> 
+        <button type="submit" class="btn btn-primary">Aggiungi al Carrello</button>
+    </form>
+    <p>@Model.Descrizione</p>
+    <div class="immagini-aggiuntive">
+        <img src="@Model.ImmagineAggiuntiva1" alt="@Model.Nome" />
+        <img src="@Model.ImmagineAggiuntiva2" alt="@Model.Nome" />
+    </div>
+</div>
+
+<style>
+    .dettagli-articolo {
+        text-align: center;
+    }
+
+    .img-copertina {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .immagini-aggiuntive img {
+        max-width: 48%;
+        margin: 1%;
+        height: auto;
+    }
+</style>

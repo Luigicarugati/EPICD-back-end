@@ -1,0 +1,31 @@
+@model IEnumerable<GestioneHotelApp.Models.Prenotazione>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome Cliente</th>
+            <th>Cognome Cliente</th>
+            <th>Numero Camera</th>
+            <th>Dal</th>
+            <th>Al</th>
+            <th>Data Prenotazione</th>
+            <th>Caparra Confirmatoria</th>
+            <th>Tariffa Applicata</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cliente.Nome</td>
+                <td>@item.Cliente.Cognome</td>
+                <td>@item.NumeroCamera</td>
+                <td>@item.Dal.ToString("dd/MM/yyyy")</td>
+                <td>@item.Al.ToString("dd/MM/yyyy")</td>
+                <td>@item.DataPrenotazione.ToString("dd/MM/yyyy")</td>
+                <td>@item.CaparraConfirmatoria.ToString("C")</td>
+                <td>@item.TariffaApplicata.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
